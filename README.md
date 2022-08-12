@@ -3,7 +3,7 @@
 ### **GNN Recommender Systems Survey or Review Papers**
 
 - [[2020] Graph Neural Networks in Recommender Systems: A Survey](https://dl.acm.org/doi/pdf/10.1145/3535101?casa_token=2oWB_Q_spoYAAAAA:Bw-3o59oiGsZXZmSK5ACGVw8PnG9A-erdFSQoFwgLyXMzB1OH__ZrsuytpXgg_DBhLD2-TTXiqTI)
-    - [Review](https://github.com/Feel-My-AlgoRhythm/GNN-study/blob/main/reviews/Graph&nbsp;Neural&nbsp;Networks&nbsp;in&nbsp;Recommender&nbsp;Systems&nbsp;-&nbsp;A&nbsp;Survey.md)
+    - [Review](https://github.com/Feel-My-AlgoRhythm/GNN-study/blob/main/reviews/Graph%20Neural%20Networks%20in%20Recommender%20Systems%20-%20A%20Survey.md)
 - [[2021] Graph Neural Networks for Recommender Systems: Challenges, Methods, and Directions](https://dl.acm.org/doi/pdf/10.1145/3488560.3501396?casa_token=e5HU4iCPu0cAAAAA:HAoEtPgrINqvQYTN7HfiX0mdJl6L49Bvg-N4EuX0ckOi7nY4nDJUPpqPWH7WMyNcXswKHcNaVl2d)
     - [(github) GNN-Recommender-Systems](https://github.com/tsinghua-fib-lab/GNN-Recommender-Systems)
 
