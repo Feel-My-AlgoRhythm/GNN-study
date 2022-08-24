@@ -16,6 +16,16 @@
 - [A Multi-task Learning Approach for Improving Travel Recommendation with Keyword Generation](https://www.sciencedirect.com/science/article/pii/S0950705121007838?casa_token=lnKdsxLDkMsAAAAA:lL_LMB5og9QcKmo51bwLYLC4t-dl7Pds2UFOAqYx4b5_cY9AbCXRWOil1SuqqyigyLMhT2L2JQ)
 - [Unified route Representiation Learning for Multi-modal Transportation Recommendation with Spatiotemporal Pre-training](https://link.springer.com/article/10.1007/s00778-022-00748-y)
 
+### **GNN을 사용한 POI 추천 관련 논문**
+
+- [POI Recommendation Based on Graph Enhanced Attention GNN](https://ieeexplore.ieee.org/document/9642167)
+- [UBER-GNN: A User-Based Embeddings Recommendation based on Graph Neural Networks](https://arxiv.org/abs/2008.02546)
+- [Semantic Enhancement of Human Urban Activity Chain Construction Using Mobile Phone Signaling Data](https://www.mdpi.com/2220-9964/10/8/545/htm)
+- [Region-aware POI Recommendation with Semantic Spatial Graph](https://doi.org/10.1109/CSCWD49262.2021.9437810)
+
+### **기타 접근법**
+- [Discovering Collaborative Signals for Next POI Recommendation with Iterative Seq2Graph Augmentation](https://arxiv.org/abs/2106.15814)
+
 ### **기타 참고할만한 repo**
 
 - [Awesome-GNN-Recommendation](https://github.com/Jhy1993/Awesome-GNN-Recommendation)
