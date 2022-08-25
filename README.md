@@ -19,12 +19,14 @@
 ### **GNN을 사용한 POI 추천 관련 논문**
 
 - [POI Recommendation Based on Graph Enhanced Attention GNN](https://ieeexplore.ieee.org/document/9642167)
+    - [Review](https://github.com/Feel-My-AlgoRhythm/GNN-study/blob/main/reviews/POI%20Recommendation%20Based%20on%20Graph%20Enhanced%20Attention%20GNN.md)
 - [UBER-GNN: A User-Based Embeddings Recommendation based on Graph Neural Networks](https://arxiv.org/abs/2008.02546)
 - [Semantic Enhancement of Human Urban Activity Chain Construction Using Mobile Phone Signaling Data](https://www.mdpi.com/2220-9964/10/8/545/htm)
 - [Region-aware POI Recommendation with Semantic Spatial Graph](https://doi.org/10.1109/CSCWD49262.2021.9437810)
 
 ### **기타 접근법**
 - [Discovering Collaborative Signals for Next POI Recommendation with Iterative Seq2Graph Augmentation](https://arxiv.org/abs/2106.15814)
+    - [Review](https://github.com/Feel-My-AlgoRhythm/GNN-study/blob/main/reviews/Discovering%20Collaborative%20Signals%20for%20Next%20POI%20Recommendation%20with%20Iterative%20Seq2Graph%20Augmentation.md)
 
 ### **기타 참고할만한 repo**
 
