@@ -23,6 +23,7 @@
 - [UBER-GNN: A User-Based Embeddings Recommendation based on Graph Neural Networks](https://arxiv.org/abs/2008.02546)
 - [Semantic Enhancement of Human Urban Activity Chain Construction Using Mobile Phone Signaling Data](https://www.mdpi.com/2220-9964/10/8/545/htm)
 - [Region-aware POI Recommendation with Semantic Spatial Graph](https://doi.org/10.1109/CSCWD49262.2021.9437810)
+    - [Review](https://github.com/Feel-My-AlgoRhythm/GNN-study/blob/main/reviews/Region-aware%20POI%20Recommendation%20with%20Semantic%20Spatial%20Graph.md)
 
 ### **기타 접근법**
 - [Discovering Collaborative Signals for Next POI Recommendation with Iterative Seq2Graph Augmentation](https://arxiv.org/abs/2106.15814)
