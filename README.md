@@ -25,6 +25,10 @@
 - [Region-aware POI Recommendation with Semantic Spatial Graph](https://doi.org/10.1109/CSCWD49262.2021.9437810)
     - [Review](https://github.com/Feel-My-AlgoRhythm/GNN-study/blob/main/reviews/Region-aware%20POI%20Recommendation%20with%20Semantic%20Spatial%20Graph.md)
 
+### **GNN을 사용한 추천 논문**
+
+- [Graph Convolutional Matrix Completion](https://doi.org/10.48550/arXiv.1706.02263)
+
 ### **기타 접근법**
 - [Discovering Collaborative Signals for Next POI Recommendation with Iterative Seq2Graph Augmentation](https://arxiv.org/abs/2106.15814)
     - [Review](https://github.com/Feel-My-AlgoRhythm/GNN-study/blob/main/reviews/Discovering%20Collaborative%20Signals%20for%20Next%20POI%20Recommendation%20with%20Iterative%20Seq2Graph%20Augmentation.md)
